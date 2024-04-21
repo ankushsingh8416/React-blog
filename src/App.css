@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.index{
+    z-index: 999999 !important;
+}
+.pricing{
+    background: linear-gradient(0deg,rgba(215, 214, 210, 0.7), rgba(248, 247, 246, 0.7)), url("https://freepik.cdnpk.net/assets/964f58b6a12e1b2e627e8d505958023b.png");
+    position: relative;
+    overflow: hidden;
+    z-index: -1;
+}
+.card{
+    padding: 60px 0;
+    background: linear-gradient(0deg,rgba(215, 214, 210, 0.7), rgba(248, 247, 246, 0.7)), url("https://freepik.cdnpk.net/assets/964f58b6a12e1b2e627e8d505958023b.png");
+    position: relative;
+    overflow: hidden;
+    z-index: -1;
+}
+.gap{
+    padding-top: 80px;
+}
